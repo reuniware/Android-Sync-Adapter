@@ -13,6 +13,4 @@
 
         //This code will make the sync start immediately
         //then every 15 minutes
-        //but the 2nd sync might start at 10 minutes
-        //1st immediately ; 2nd at 10 min ; 3rd at 25 min
 
